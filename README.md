@@ -1,6 +1,6 @@
 # ProgWeb-CSS-3
 
-Link Akses Grup A : https://nicholandn22.github.io/ProgWeb-CSS-3/
+Link Akses Grup A : https://nicholandn22.github.io/ProgWeb-CSS-3A/
 
 Link Akses Grup B : https://nicholandn22.github.io/ProgWeb-CSS-3B/
 
